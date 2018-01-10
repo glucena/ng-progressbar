@@ -1,0 +1,26 @@
+{
+  "name": "ng-progressbar-directive",
+  "version": "1.0.0",
+  "description": "Progressbar.js wrapper to be used in Angular apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glucena/ng-progressbar-directive.git"
+  },
+  "keywords": [
+    "progressbar",
+    "angular"
+  ],
+  "author": "Gabriel Lucena <gabriel.lucena.toro@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glucena/ng-progressbar-directive/issues"
+  },
+  "homepage": "https://github.com/glucena/ng-progressbar-directive#readme",
+  "dependencies": {
+    "progressbar.js": "^1.0.1"
+  }
+}
